@@ -19,7 +19,7 @@
 #  - Live score bar
 # Link to the video demo 
 # - Insert YouTube/MyMedia/other URL here and make sure the video is accessible 
-# https://youtu.be/A9yM6tllnnc
+# 
 # Any additional information that the TA needs to know: 
 # - Write here, if any 
 #  
